@@ -2,10 +2,10 @@
 	"name": "projet-visualdon",
 	"version": "1.0.0",
 	"description": "",
-	"main": "index.js",
+	"main": "index.html",
 	"scripts": {
-		"start": "parcel index.html",
-		"build": "parcel build index.html"
+		"start": "vite index.html",
+		"build": "vite build"
 	},
 	"author": "",
 	"license": "ISC",
